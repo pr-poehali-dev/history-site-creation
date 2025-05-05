@@ -1,4 +1,4 @@
-import Header from "@/components/history-site/Header");
+import Header from "@/components/history-site/Header";
 import HeroBanner from "@/components/history-site/HeroBanner";
 import AboutSection from "@/components/history-site/AboutSection";
 import MaterialsSection from "@/components/history-site/MaterialsSection";
